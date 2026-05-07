@@ -1,3 +1,6 @@
 # Code owners for this repository.
 # These users will be requested for review on all pull requests.
 * madsen.kristian@icloud.com madsen.kristian@gmail.com
+
+# Java files
+*.java @kristians-test-org/java-team
